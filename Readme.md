@@ -1,3 +1,5 @@
-# Intro
+# Brainstorm for my app for Mobile App Portfolio 2
+## Author: Sagar Gurung
 
-This is a read me file for Mobile App Portfolio
+Below is the Use case diagram for my Attendance Manager App
+
